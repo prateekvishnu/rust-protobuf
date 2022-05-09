@@ -8,8 +8,8 @@ env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
   ALL_MAYHEMFILE: Mayhem/all.mayhemfile
-  EM_MAYHEMFILE: Mayhem/emptymessage.mayhemfile
-  EMR_MAYHEMFILE: Mayhem/emptymessage_read.mayhemfile
+  EM_MAYHEMFILE: Mayhem/empty_message.mayhemfile
+  EMR_MAYHEMFILE: Mayhem/empty_message_read.mayhemfile
   MAP_MAYHEMFILE: Mayhem/map.mayhemfile
   MAPR_MAYHEMFILE: Mayhem/map_read.mayhemfile
   REPEAT_MAYHEMFILE: Mayhem/repeated.mayhemfile
